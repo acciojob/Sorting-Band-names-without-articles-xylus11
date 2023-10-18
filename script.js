@@ -1,6 +1,6 @@
 //your code here
 // Array of band names
-let bandNames = ['The Rolling Stones', 'Aerosmith', 'The Beatles', 'Led Zeppelin', 'Queen'];
+let bandNames = ['The Virupaksha Temple', 'Victoria Memorial', 'Tajmahal'];
 
 // Custom sorting function to sort names without articles
 function customSort(a, b) {
